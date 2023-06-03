@@ -1,0 +1,12 @@
+//const {STR1,STR2}=require('./extp')
+const {STR2}=require('./extp')
+//console.log(arguments.callee.toString())
+
+//console.log('Alex')
+console.log('exports',exports)
+console.log('require',require)
+console.log('module',module)
+console.log('__filename',__filename)
+console.log('__dirname',__dirname)
+//console.log(STR1)
+console.log(STR2)
