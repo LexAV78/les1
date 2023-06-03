@@ -1,1 +1,0 @@
-console.log('delete file Git')
